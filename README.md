@@ -2,5 +2,4 @@
 
 Online Shopping Team Project
 
-Modules: Login, Cart
-
+Modules: Login, Catalog, Cart
